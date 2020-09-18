@@ -1,0 +1,8 @@
+
+
+
+NAMESPACE 
+  -> Agrupamento de classes, interfaces ...
+  -> Visa em evitar CONFLITO entre nomes
+  -> Visa em encapsulador
+  -> equivalente ao diretórios em S.O
