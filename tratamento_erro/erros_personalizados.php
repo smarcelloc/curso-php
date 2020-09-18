@@ -1,6 +1,7 @@
 <div class="titulo">Erros Personalizados</div>
 
 <?php
+// CRIAR CLASSE DE EXCEPTION
 class FaixaEtariaException extends Exception {
     public function __construct($message, $code = 0,
         $previous = null) {

@@ -1,4 +1,7 @@
-
+TRY E CATCH
+  -> TRY bloco de protegido
+  -> CATCH a execução desviará
+  -> FINNALY sempre executa no bloco try / catch
 
 
 NAMESPACE 
@@ -6,3 +9,6 @@ NAMESPACE
   -> Visa em evitar CONFLITO entre nomes
   -> Visa em encapsulador
   -> equivalente ao diretórios em S.O
+
+ERROR_HANDLER
+  -> Gerenciador de ERROS
