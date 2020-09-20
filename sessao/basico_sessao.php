@@ -6,12 +6,12 @@ session_start();
 print_r($_SESSION);
 echo '<br>';
 
-if(!$_SESSION['nome']) {
-    $_SESSION['nome'] = 'Gabriel';
+if (!$_SESSION['nome']) {
+    $_SESSION['nome'] = 'Marcello';
 }
 
-if(!$_SESSION['email']) {
-    $_SESSION['email'] = 'gabriel@azmail.com';
+if (!$_SESSION['email']) {
+    $_SESSION['email'] = 'marcelloc@ezmail.com';
 }
 
 print_r($_SESSION);
